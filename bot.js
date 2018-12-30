@@ -5,7 +5,7 @@ bot.on('guildMemberAdd', member => {
 const mohamed= member.guild.channels.get("528188989283368971");
 if(!mohamed) return;
 if(mohamed) {
-setTimeout(() => mohamed.send(`**Welcome, To Nautica. :champagne_glass: **`), 4000)        
+setTimeout(() => mohamed.send(`**Welcome, To NIX NetWork **`), 4000)        
 }
 });
 
